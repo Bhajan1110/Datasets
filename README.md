@@ -1,2 +1,2 @@
 # Datasets
-You can find some useful dataset in there for practice/learning purpose. 
+You can find some useful datasets in there for practice/learning purposes. 
